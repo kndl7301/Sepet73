@@ -20,10 +20,10 @@ Online Market Sipariş
 ![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/arama.jpg)
 
 # Sepetim 
-![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/login.jpg)
+![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/sepetim.jpg)
 
 # Admin Sayfası
-![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/login.jpg)
+![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/admin.jpg)
 
 # Kayıt sayfası
 ![alt text](https://github.com/kndl7301/Sepet73/blob/main/pictures/kayıtol.jpg)
